@@ -1,12 +1,33 @@
 # Catherine_latifah
-<h2 align="left">Hi 👋! My name is  Catherine and I'm a student, from Vietnam</h2>
+<div align="center">
+  <img height="446" src="https://www.bing.com/th/id/OGC.cca16c3bd67a6b8220ee01c45a0ae138?pid=1.7&rurl=https%3a%2f%2fi0.wp.com%2fwallpapercave.com%2fwp%2fwp6630058.gif&ehk=2AYNxajJ3CcIfiHq7A6LIjr0Z%2fyW9Ph6ZS2yHl%2bHzaY%3d"  />
+</div>
+
+###
+
+<h1 align="center">Hi buddy! I'm Catherine <br>A DATA BUSINESS ANALYST  <br>& your cuties</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heheheh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=heheheh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img height="70" src="https://th.bing.com/th/id/R.8173b2f4dc1ffbe2b1da4ae8eb7be5e6?rik=3bfJet7mMT1Xhg&pid=ImgRaw&r=0"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="left" height="200" src="https://i.pinimg.com/originals/6c/2c/53/6c2c53c7a05df9d583a8cb3004dbf838.jpg"  />
+
+###
+
+<h4 align="left">💬 My major is Data Business Analyst<br>💬 ask me about something you care ?<br>💬 find me in Instargram : Latifah_catherine<br>💬 My favorite color are pink, white & blue<br>💬 Drink enough water @@</h4>
+
+###
+
+<br clear="both">
+
+<p align="left">Languages & tools:</p>
 
 ###
 
@@ -24,6 +45,10 @@
 
 ###
 
+<p align="center">social media & channels:</p>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -34,24 +59,23 @@
 
 ###
 
+<p align="right">icon:</p>
+
+###
+
 <div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://photos.app.goo.gl/oJMnoE4b54JdUitG9"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=heheheh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=heheheh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/heheheh/heheheh/output/snake.svg" alt="Snake animation" />
 
 ###
